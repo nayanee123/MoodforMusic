@@ -39,3 +39,8 @@ The objective of this project is to build an application that detects the mood o
 
 	Deployment Plan: Plan the deployment of the application on a web server or as a mobile app.
 
+ accuracy of >75% on the test dataset.
+ 
+	Music Recommendation Effectiveness: Measure user satisfaction and engagement with the recommended music based on user feedback.
+
+
