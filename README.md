@@ -43,8 +43,8 @@ The objective of this project is to build an application that detects the mood o
 
  | S.NO.| TOPIC | LINK |
 |-|-|-|
-|01| Problem Statement |(https://kh3-ls-storage.s3.us-east-1.amazonaws.com/Updated Project guide data set/MoodforMusic.zip)
-|02| Data Sources |(https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fkh3-ls-storage.s3.us-east-1.amazonaws.com%2FUpdated%2520Project%2520guide%2520data%2520set%2FAnomaData.xlsx&wdOrigin=BROWSELINK)
+|01| Problem Statement |
+|02| Data Sources |
 |03| Model Traning & Preprocessing |(http://localhost:8888/notebooks/moodformusic.ipynb)
 |04| Evaluation |(http://localhost:8888/notebooks/moodformusic.ipynb)
 |05|Integretion |(http://localhost:8888/notebooks/moodformusic.ipynb)
